@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\İş masası\Array 2\tasks-2\tasks-2\bin\Debug\net8.0\tasks-2.exe
+C:\Users\User\OneDrive\İş masası\Array 2\tasks-2\tasks-2\bin\Debug\net8.0\tasks-2.deps.json
+C:\Users\User\OneDrive\İş masası\Array 2\tasks-2\tasks-2\bin\Debug\net8.0\tasks-2.runtimeconfig.json
+C:\Users\User\OneDrive\İş masası\Array 2\tasks-2\tasks-2\bin\Debug\net8.0\tasks-2.dll
+C:\Users\User\OneDrive\İş masası\Array 2\tasks-2\tasks-2\bin\Debug\net8.0\tasks-2.pdb
+C:\Users\User\OneDrive\İş masası\Array 2\tasks-2\tasks-2\obj\Debug\net8.0\tasks-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\İş masası\Array 2\tasks-2\tasks-2\obj\Debug\net8.0\tasks-2.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\İş masası\Array 2\tasks-2\tasks-2\obj\Debug\net8.0\tasks-2.AssemblyInfo.cs
+C:\Users\User\OneDrive\İş masası\Array 2\tasks-2\tasks-2\obj\Debug\net8.0\tasks-2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\İş masası\Array 2\tasks-2\tasks-2\obj\Debug\net8.0\tasks-2.dll
+C:\Users\User\OneDrive\İş masası\Array 2\tasks-2\tasks-2\obj\Debug\net8.0\refint\tasks-2.dll
+C:\Users\User\OneDrive\İş masası\Array 2\tasks-2\tasks-2\obj\Debug\net8.0\tasks-2.pdb
+C:\Users\User\OneDrive\İş masası\Array 2\tasks-2\tasks-2\obj\Debug\net8.0\tasks-2.genruntimeconfig.cache
+C:\Users\User\OneDrive\İş masası\Array 2\tasks-2\tasks-2\obj\Debug\net8.0\ref\tasks-2.dll
